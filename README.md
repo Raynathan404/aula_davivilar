@@ -1,6 +1,6 @@
 # aula_algoritimo_Davi
 Aprendiz algoritmos  
 
-# esta linha nao serve
+# aprendi minha primeira liçao
 esta tbm nn
 
